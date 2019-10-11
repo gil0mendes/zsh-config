@@ -18,6 +18,7 @@ zplug "plugins/brew", from:oh-my-zsh
 zplug "plugins/docker", from:oh-my-zsh
 zplug "plugins/docker-compose", from:oh-my-zsh
 zplug "plugins/git", from:oh-my-zsh
+zplug "plugins/sudo", from:oh-my-zsh
 
 # Syntax highlighting
 zplug "zsh-users/zsh-syntax-highlighting", defer:2
